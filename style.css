@@ -117,7 +117,7 @@ header {
   width: 100%;
   display: flex;
   align-items: center;
-  padding: 0px 15px;
+  padding: 0 15px;
   border-bottom-left-radius: 80px;
   background-color: #fff;
 }
@@ -140,6 +140,15 @@ header {
   color: #344563;
   padding-top: 15px;
   padding-bottom: 15px;
+}
+
+.portfolio_single {
+  background: #fff;
+  border: 1px solid #dfe1e6;
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
 }
 
 .social-links-hero > a > img {
@@ -165,17 +174,8 @@ ul li {
 /* portfolio */
 
 #portfolio {
-  margin: 50px 0px;
-  padding: 0px 24px;
-}
-
-.portfolio_single {
-  background: #fff;
-  border: 1px solid #dfe1e6;
-  border-radius: 16px;
-  padding: 16px;
-  margin-bottom: 50px;
-  padding-bottom: 20px;
+  margin: 50px 0;
+  padding: 0 24px;
 }
 
 .portfolio_single > img {
@@ -201,6 +201,17 @@ ul li {
   color: #344563;
   padding-top: 10px;
   padding-right: 10px;
+}
+
+.single_programming_language_wrapper > h6 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #253858;
+  padding-left: 10px;
 }
 
 .portfolio_single > .flex > h6 {
@@ -334,7 +345,7 @@ ul li {
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
 
 .language_wrapper {
@@ -361,7 +372,7 @@ ul li {
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
 
 .single_programming_language_wrapper {
@@ -373,17 +384,6 @@ ul li {
   display: flex;
   align-items: center;
   padding: 0px 10px;
-}
-
-.single_programming_language_wrapper > h6 {
-  font-style: normal;
-  font-weight: 500;
-  font-size: 15px;
-  line-height: 20px;
-  display: flex;
-  align-items: center;
-  color: #253858;
-  padding-left: 10px;
 }
 
 /* contact */
