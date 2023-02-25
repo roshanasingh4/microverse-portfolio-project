@@ -32,7 +32,7 @@ a {
   text-decoration: none;
 }
 
-li{
+li {
   list-style: none;
 }
 
@@ -47,6 +47,15 @@ header {
   text-decoration: none;
 }
 
+.intro-info > h5 {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+
 .logo > a > h5 {
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -59,37 +68,37 @@ header {
 .single-bar {
   width: 18px;
   height: 2px;
-  margin: 3px 0px;
+  margin: 3px 0;
   background: #6070ff;
   cursor: pointer;
 }
 
-.navbar_mobile{
+.navbar_mobile {
   display: none;
 }
 
-.navbar_mobile.active{
+.navbar_mobile.active {
   display: block;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100vh;
-  background: rgba(4, 26, 226, 0.73); 
+  background: rgba(4, 26, 226, 0.73);
   backdrop-filter: blur(10px);
   padding: 20px;
   padding-top: 60px;
   z-index: 111111;
 }
 
-.close-popup{
+.close-popup {
   position: absolute;
   top: 40px;
   right: 40px;
   z-index: 111;
 }
 
-.navbar_mobile > ul > li > a{
+.navbar_mobile > ul > li > a {
   font-style: normal;
   font-weight: 500;
   font-size: 32px;
@@ -131,15 +140,6 @@ header {
   color: #344563;
   padding-top: 15px;
   padding-bottom: 15px;
-}
-
-.intro-info > h5 {
-  font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #7f8cff;
 }
 
 .social-links-hero > a > img {
