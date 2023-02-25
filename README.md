@@ -52,10 +52,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello_world_microverse] <a name="Portfolio"></a>
+# 📖 [portfolio_microverse] <a name="Portfolio"></a>
 
 > Describe your project in 1 or 2 sentences.
-This project is just to check my basic understanding of text editor, file system, git and so on..
+This project is just to check my basic understanding of text editor, file system, git and so on.. and so I can have a fully working portfolio website in the end.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS</a>
 
@@ -65,7 +65,7 @@ This project is just to check my basic understanding of text editor, file system
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
-Hello Worl project with an HTML file which is linked to the CSS file to provide styling for the H1 element
+Microverse portfolio project to learn and understand the basic features of flexbox and skyrocket my programming career.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +97,7 @@ GIT IN YOUR SYSTEM
 Clone this repository to your desired folder:
 
 GIT CLONE https://github.com/roshanasingh4/microverse-portfolio-project.git
-CD microverse-hello-world
+CD microverse-portfolio-project
 
 ### Usage
 
@@ -119,6 +119,24 @@ You can run this project normally by opening the index.html file or using the li
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+> Describe 1 - 3 features you will add to the project.
+1. Will add responsivness and further breakpoints
+1. Make the desktop version more better aesthetically
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -132,5 +150,15 @@ If you like this project leave a star to the repository
 - What tech stack have you used to build the project
 
   - VANILLA HTML and CSS
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
