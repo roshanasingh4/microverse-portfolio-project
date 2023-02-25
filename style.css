@@ -15,18 +15,23 @@ body {
 .flex {
   display: flex;
 }
+
 .items-center {
   align-items: center;
 }
+
 .justify-between {
   justify-content: space-between;
 }
+
 .w-full {
   width: 100%;
 }
+
 a {
   text-decoration: none;
 }
+
 li{
   list-style: none;
 }
