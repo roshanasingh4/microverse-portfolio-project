@@ -73,6 +73,15 @@ header {
   cursor: pointer;
 }
 
+.about_heading > a {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+
 .navbar_mobile {
   display: none;
 }
@@ -286,7 +295,7 @@ ul li {
 /* about */
 
 #about {
-  padding: 0px 24px;
+  padding: 0 24px;
 }
 
 .about_heading > h1 {
@@ -311,7 +320,7 @@ ul li {
 
 .resume-btn {
   height: 45px;
-  padding: 0px 15px;
+  padding: 0 15px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -326,15 +335,6 @@ ul li {
   letter-spacing: 0.03em;
   color: #396df2;
   margin-top: 5px;
-}
-
-.about_heading > a {
-  font-family: "Poppins", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  color: #7f8cff;
 }
 
 .about_heading > h3 {
@@ -383,7 +383,7 @@ ul li {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
-  padding: 0px 10px;
+  padding: 0 10px;
 }
 
 /* contact */
@@ -418,13 +418,13 @@ ul li {
   line-height: 28px;
   text-align: center;
   color: #ebebff;
-  padding: 0px 20px;
+  padding: 0 20px;
 }
 
 #contact > form {
   width: 100%;
   display: block;
-  padding: 0px 24px;
+  padding: 0 24px;
   margin-top: 30px;
 }
 
